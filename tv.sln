@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tv", "tv\tv.csproj", "{8E19BC72-01BD-4198-987C-67D29442F1F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E19BC72-01BD-4198-987C-67D29442F1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E19BC72-01BD-4198-987C-67D29442F1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E19BC72-01BD-4198-987C-67D29442F1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E19BC72-01BD-4198-987C-67D29442F1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D25AAC4-2D76-4B38-B69D-329FA23A2720}
+	EndGlobalSection
+EndGlobal
